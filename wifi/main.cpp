@@ -1,4 +1,5 @@
-#include <QtGui/QApplication>
+
+//#include <QtGui/QApplication>
 #include "wifi.h"
 #include "myinputpanelcontext.h"
 
